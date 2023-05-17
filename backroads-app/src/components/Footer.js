@@ -1,6 +1,5 @@
 import React from 'react'
-import { pageLinks } from '../data'
-import { socialLinks } from '../data'
+import { pageLinks, socialLinks } from '../data'
 
 const Footer = () => {
   return (
